@@ -36,7 +36,7 @@ Programa que simula la interaccion de un paciente durante una sesión con un psi
 - Compilar: `javac Psicologo.java`
 - Ejecutar: `java Psicologo`
 
-## Demo:
+### Demo:
 ```shell
 elTonal@think:~/CS/ICC/Practica1/EGalicia/practica01/src/icc$ javac Psicologo.java 
 elTonal@think:~/CS/ICC/Practica1/EGalicia/practica01/src/icc$ java Psicologo
